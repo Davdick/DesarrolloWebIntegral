@@ -1,0 +1,6 @@
+@Bizhub.Directory.Api_HostAddress = http://localhost:5116
+
+GET {{Bizhub.Directory.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
