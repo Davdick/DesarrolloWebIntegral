@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kencBZWYAN6VkJBFkRsDfAK/iG/w5lU4xonEGE2Gw0LE5n7QslXWKLnC7YBUayW0gxwiJ6a+d5zOZYaD/NRLkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crzym\\source\\repos\\ProyectoWebAPI.DesarrolloIntegral\\src\\ProyectoWebApi.DesarrolloIntegral.External\\ProyectoWebApi.External.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crzym\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\crzym\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\crzym\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

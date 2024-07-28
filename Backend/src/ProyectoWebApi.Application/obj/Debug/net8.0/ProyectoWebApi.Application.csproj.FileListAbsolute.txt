@@ -1,0 +1,15 @@
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\bin\Debug\net8.0\ProyectoWebApi.Application.deps.json
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\bin\Debug\net8.0\ProyectoWebApi.Application.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\bin\Debug\net8.0\ProyectoWebApi.Application.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\bin\Debug\net8.0\ProyectoWebApi.Domain.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\bin\Debug\net8.0\ProyectoWebApi.Domain.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.csproj.AssemblyReference.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.AssemblyInfoInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.AssemblyInfo.cs
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.csproj.CopyComplete
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\refint\ProyectoWebApi.Application.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ProyectoWebApi.Application.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Application\obj\Debug\net8.0\ref\ProyectoWebApi.Application.dll

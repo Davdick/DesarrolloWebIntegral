@@ -1,0 +1,11 @@
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\bin\Debug\net8.0\ProyectoWebApi.Domain.deps.json
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\bin\Debug\net8.0\ProyectoWebApi.Domain.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\bin\Debug\net8.0\ProyectoWebApi.Domain.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.AssemblyInfo.cs
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\refint\ProyectoWebApi.Domain.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ProyectoWebApi.Domain.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Domain\obj\Debug\net8.0\ref\ProyectoWebApi.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Persistence.deps.json
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Persistence.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Persistence.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Application.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Domain.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Application.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\bin\Debug\net8.0\ProyectoWebApi.Domain.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.csproj.AssemblyReference.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.AssemblyInfoInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.AssemblyInfo.cs
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.csproj.CopyComplete
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\refint\ProyectoWebApi.Persistence.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ProyectoWebApi.Persistence.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Persistence\obj\Debug\net8.0\ref\ProyectoWebApi.Persistence.dll

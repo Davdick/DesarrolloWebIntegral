@@ -1,0 +1,12 @@
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\bin\Debug\net8.0\ProyectoWebApi.External.deps.json
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\bin\Debug\net8.0\ProyectoWebApi.External.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\bin\Debug\net8.0\ProyectoWebApi.External.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.csproj.AssemblyReference.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.AssemblyInfoInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.AssemblyInfo.cs
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.csproj.CoreCompileInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\refint\ProyectoWebApi.External.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ProyectoWebApi.External.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.External\obj\Debug\net8.0\ref\ProyectoWebApi.External.dll

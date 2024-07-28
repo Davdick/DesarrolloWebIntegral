@@ -1,0 +1,12 @@
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\bin\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.deps.json
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\bin\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\bin\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.csproj.AssemblyReference.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.AssemblyInfoInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.AssemblyInfo.cs
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.csproj.CoreCompileInputs.cache
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\refint\ProyectoWebApi.DesarrolloIntegral.Common.dll
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ProyectoWebApi.DesarrolloIntegral.Common.pdb
+C:\Users\crzym\source\repos\ProyectoWebAPI.DesarrolloIntegral\src\ProyectoWebApi.DesarrolloIntegral.Common\obj\Debug\net8.0\ref\ProyectoWebApi.DesarrolloIntegral.Common.dll
